@@ -31,7 +31,7 @@ require 'maze_crosser'
 You are now provided with two instance variables, @maze_crosser_runner and @cache_provider. You can use these as follows:
 ```ruby
 # Empty the cache
-@cache_provider.empty!
+@cache_provider.empty_cache!
 
 # Provide a path to a grid file and a solving algorithm. Currently, the only
 # algorithm option is 'recursive' (set as default).
