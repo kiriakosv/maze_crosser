@@ -1,4 +1,8 @@
-# MazeCrosser
+# maze_crosser
+
+[![Build Status](https://travis-ci.org/kiriakosv/maze_crosser.svg?branch=master)](https://travis-ci.org/kiriakosv/maze_crosser)
+[![Coverage Status](https://coveralls.io/repos/github/kiriakosv/maze_crosser/badge.svg)](https://coveralls.io/github/kiriakosv/maze_crosser)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ade071d041026dd0928d/maintainability)](https://codeclimate.com/github/kiriakosv/maze_crosser/maintainability)
 
 A simple 2d maze solving application.
 
