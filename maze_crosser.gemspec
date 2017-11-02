@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kir.velissariou@gmail.com"]
 
   spec.summary       = %q{A simple 2d maze solving application}
-  spec.homepage      = "https://github.com/kiriakosv/mazer"
+  spec.homepage      = "https://github.com/kiriakosv/maze_crosser"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
