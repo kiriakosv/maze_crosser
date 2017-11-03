@@ -20,7 +20,7 @@ module MazeCrosser
     end
 
     def allowed_extension?(file)
-      file =~ /^.+.#{ALLOWED_EXTENSIONS.join('|')}/
+      file =~ /^.+\.(#{ALLOWED_EXTENSIONS.join('|')})$/
     end
   end
 end

@@ -19,7 +19,7 @@ class FileCheckerTest < Minitest::Test
   end
 
   def test_that_check_raises_error_if_the_file_has_wrong_extension
-    file_path = 'test/test_files/wrong_extension_file.l'
+    file_path = 'test/test_files/wrong_extension_file.txtt'
     assert_raises(ArgumentError) do
       @file_checker.check(file_path)
     end
